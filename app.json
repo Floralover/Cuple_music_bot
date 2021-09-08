@@ -52,7 +52,7 @@
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
-      "required": false,
+      "required": true,
       "value": "cuple_music_support"
     },    
     "API_ID": {
